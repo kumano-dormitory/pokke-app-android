@@ -1,3 +1,9 @@
+# 注意
+現在このバージョンのPOKKEの運用は終了しています。
+https://github.com/kumano-dormitory/pokke-android-2
+こちらが最新版です。(2026-04-18現在)
+
+
 # 熊野寮荷物アプリ POKKE - Android
 
 熊野寮事務室に届く荷物の受け取り・引き渡し・管理を行うための、事務当番用の Android アプリです。登録・修正されたデータは[POKKE サーバーサイド](https://github.com/kumano-jimushitsu/luggage-manager-api)に送信され、同期・バックアップされます。
